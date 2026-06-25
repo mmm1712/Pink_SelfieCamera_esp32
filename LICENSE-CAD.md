@@ -1,12 +1,14 @@
 # CAD / 3D Print License
 
-The OpenSCAD and STL files in this repository are shared under:
+The OpenSCAD and STL files in this repository are shared under the Creative Commons Attribution 4.0 International license.
 
-**Creative Commons Attribution 4.0 International — CC BY 4.0**
+You are allowed to print, share, modify, and reuse the 3D enclosure files, including for commercial use, as long as attribution is given.
 
-You are allowed to print, share, modify, and reuse the 3D enclosure files, including for commercial use, as long as you give credit to the original project.
-
-Suggested credit:
+This applies to files inside:
 
 ```txt
-Pink Selfie Camera ESP32 enclosure by Marina Zhdanova
+enclosure/openscad/
+enclosure/stl/
+```
+
+The firmware and iPhone app code are licensed separately under the MIT License.
