@@ -2,6 +2,12 @@
 
 <img src="media/photos/pocketcam-demo.jpg" alt="PocketCam demo" width="450">
 
+## Demo Video
+
+[![PocketCam demo video](https://img.youtube.com/vi/CbtFV22GO2s/maxresdefault.jpg)](https://youtu.be/CbtFV22GO2s)
+
+Watch the full build/demo video on YouTube: https://youtu.be/CbtFV22GO2s
+
 A tiny pink DIY camera built with a Seeed XIAO ESP32S3 Sense, an OV3660 camera module, a round display, microSD storage, a LiPo battery, and a custom 3D printed enclosure.
 
 The goal of this project was to make a small camera that feels more like a real mini product than a loose electronics prototype. PocketCam shows a live preview on the round screen, captures photos and videos, saves them to microSD, creates its own local Wi-Fi network, and lets an iPhone connect directly to sync photos into a custom SwiftUI app.
