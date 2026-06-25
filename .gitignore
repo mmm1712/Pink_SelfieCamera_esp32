@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Xcode
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Arduino / PlatformIO temporary files
+.vscode/
+.pio/
+build/
+*.bin
+*.elf
+*.map
+
+# Secrets / private config
+secrets.h
+config_private.h
+.env
+
+# Large temporary media
+*.mov
+*.mp4
+*.zip
