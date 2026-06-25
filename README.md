@@ -1,6 +1,6 @@
 # PocketCam: Pink ESP32S3 DIY Camera
 
-![PocketCam demo](media/photos/pocketcam-demo.jpg)
+<img src="media/photos/pocketcam-demo.jpg" alt="PocketCam demo" width="550">
 
 A tiny pink DIY camera built with a Seeed XIAO ESP32S3 Sense, an OV3660 camera module, a round display, microSD storage, a LiPo battery, and a custom 3D printed enclosure.
 
